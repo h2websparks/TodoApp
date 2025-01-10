@@ -10,7 +10,7 @@ const Footer = () => {
 
   return (
     <footer className="flex py-6 items-center justify-center bg-blue-900 text-white">
-      <div className="flex justify-center items-center">Created with <img className="w-10 m-2" src="heart.png" alt="" /> by Mohd Hamza</div>
+      <div className="flex justify-center items-center">Created with <img className="w-10 m-2" src="heart.png" alt="" /> by H2 Web Sparks</div>
     </footer>
   );
 };
