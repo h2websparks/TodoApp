@@ -1,0 +1,5 @@
+Run these commands and check it out at localhost:5173
+
+npm install
+
+npm run dev
